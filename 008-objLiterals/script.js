@@ -8,5 +8,5 @@ function skier(name, sound) {
     },
   };
 }
-
+// *****
 skier('Sendy', 'yeah').powderYell();
